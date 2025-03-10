@@ -1,2 +1,2 @@
 # ai-dungeon-master
-#an ai model 
+#an ai model that is based on typecript
